@@ -1,6 +1,7 @@
 ﻿// stack is (Last In FirstOut)
 
 #include <iostream>
+#include <conio.h>
 using namespace std;
 #define size 100
 
@@ -128,5 +129,8 @@ int main()
 		cout << "{ parantezi eksik..." << endl;
 		break;
 	}
+
+	_getch();
+
 	return 0;
 }
