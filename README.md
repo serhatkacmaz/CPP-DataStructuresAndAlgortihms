@@ -1,2 +1,2 @@
-# Data_Structures_And_Algortihms
+# Data-Structures-And-Algortihms
 Contains codes related to data structures
