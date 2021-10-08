@@ -1,0 +1,1 @@
+A doubly linked list is a type of linked list that has two links on each node, except that it stores data
